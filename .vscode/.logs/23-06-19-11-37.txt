@@ -1,0 +1,4 @@
+23-06-19 11:37 Session started
+----------------------------------------
+11:37:43 Document switched to: c:\Users\ADMIN\Desktop\video website\myenvproject\mypswebsite\videoapp\templates\videoapp\index.html
+----------------------------------------

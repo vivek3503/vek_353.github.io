@@ -1,0 +1,37 @@
+18:12:56 Document switched to: c:\Users\ADMIN\Desktop\video website\myenvproject\mypswebsite\videoapp\templates\videoapp\index.html
+----------------------------------------
+18:15:48 089:041 > {}
+18:15:49 089:042 > %%
+
+18:15:49 089:043 > %
+18:15:51 089:044 > % u
+18:15:51 089:045 > % ur
+18:15:52 089:046 > % url
+18:15:53 089:048 > % url '
+18:15:54 089:049 > % url 'a
+18:15:54 089:050 > % url 'ab
+18:15:54 089:051 > % url 'abo
+18:15:54 089:052 > % url 'abou
+18:15:55 089:053 > % url 'about
+18:15:57 089:054 > % url 'about;
+18:15:59 089:054 > % url 'about; '
+18:17:58 Document switched to: c:\Users\ADMIN\Desktop\video website\myenvproject\mypswebsite\videoapp\templates\videoapp\index.html
+----------------------------------------
+18:18:05 112:033 > {}
+18:18:06 112:034 > %%
+
+18:18:08 112:036 > u
+18:18:08 112:037 > ur
+18:18:08 112:038 > url
+18:18:09 112:040 > url '
+18:18:10 112:041 > url 's
+18:18:10 112:042 > url 'se
+18:18:10 112:043 > url 'see
+18:18:10 112:044 > url 'seer
+18:18:11 112:043 > url 'seerr
+18:18:12 112:044 > url 'seerrv
+18:18:12 112:045 > url 'seerrvi
+18:18:13 112:046 > url 'seerrvic
+18:18:14 112:047 > url 'seerrvice
+18:18:14 112:048 > url 'seerrvices
+18:18:14 112:049 > url 'seerrvices'
